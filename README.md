@@ -37,3 +37,4 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```
+[SWAGGER DO PROJETO](https://web-production-4611.up.railway.app/swagger-ui/index.html)
